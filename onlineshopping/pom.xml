@@ -15,6 +15,13 @@
 
 	<dependencies>
 
+		<!-- Link backend project -->
+		<dependency>
+			<groupId>net.fsm</groupId>
+			<artifactId>shoppingbackend</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+
 		<!-- Java EE APi -->
 		<dependency>
 			<groupId>javax</groupId>
